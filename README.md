@@ -109,9 +109,9 @@ This project helped improve practical understanding of:
 Planned improvements for the project include:
 
 * Drag and drop file upload
-* OCR-based text recognition
+* OCR based text recognition
 * Batch image processing
 * Additional export formats
 * User customization options
 * Better mobile optimization
-Utility Tools Hub was developed as a practical multi-tool web application focused on speed, accessibility, and browser-side processing. The project demonstrates how frontend technologies can be combined to create a functional and responsive utility platform without relying on backend infrastructure.
+Utility Tools Hub was developed as a practical multi tool web application focused on speed, accessibility, and browser side processing. The project demonstrates how frontend technologies can be combined to create a functional and responsive utility platform without relying on backend infrastructure.

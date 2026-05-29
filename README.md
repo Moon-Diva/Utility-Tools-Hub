@@ -12,8 +12,6 @@ The main goal of this project was to create a lightweight and responsive toolkit
 
 ## Document Processing
 
-* Extract text from PDF files
-* Read text content from DOCX documents
 * Convert plain text into downloadable PDF files
 * Merge multiple TXT and DOCX files into a single PDF
 
